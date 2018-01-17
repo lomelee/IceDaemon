@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# VC files
+*.sdf
+*.suo
+*.pdb
+*.lnk
+*.user
+
+# VC dir
+src/Release/
+src/Debug/
+TestProcess/
