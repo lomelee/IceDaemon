@@ -1,7 +1,0 @@
-<CTIManager>
- <ServerIP>127.0.0.1</ServerIP>
- <ServerPort>9906</ServerPort>
- <DBIP>127.0.0.1</DBIP>
- <DBPort>6880</DBPort>
- <InitSQL>0</InitSQL>
-</CTIManager>
